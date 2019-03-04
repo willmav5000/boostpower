@@ -1,0 +1,15 @@
+{
+    "name": "boostpower-willmather",
+    "description": "Top up your energy anywhere.",
+    "architecture": "all",
+    "title": "Boost Power",
+    "hooks": {
+        "boostpower": {
+            "apparmor": "boostpower.apparmor",
+            "desktop":  "boostpower.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Will Mather <willmav5000@gmail.com>",
+    "framework" : "ubuntu-sdk-16.04"
+}
