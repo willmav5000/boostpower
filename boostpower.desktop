@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Boost Power
 Exec=webapp-container --webappUrlPatterns=https?://payg.boostpower.co.uk/* https://payg.boostpower.co.uk
-Icon=logo.svg
+Icon=logo.jpg
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true
